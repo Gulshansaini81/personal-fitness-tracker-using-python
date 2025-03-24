@@ -1,0 +1,5 @@
+Date,Age,BMI,Duration,Heart_Rate,Body_Temp,Calories_Burned,Source
+2025-03-20,28,22.5,30,130,37.5,250,manual
+2025-03-21,28,22.5,40,135,37.8,320,prediction
+2025-03-22,28,22.5,45,138,38.0,350,prediction
+2025-03-24,23,22.068809416025353,40,120,38.0,301,workout
